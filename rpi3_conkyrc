@@ -29,7 +29,8 @@ override_utf8_locale no
 use_spacer right
 
 TEXT
-${font Arial:size=20}${color Tan1}RPI${color Ivory}LINUX
+
+${font Arial:size=20}${color #0040FF}RPI${color #00FFFF}LINUX
 
 ${voffset -90}
 ${color DimGray}
